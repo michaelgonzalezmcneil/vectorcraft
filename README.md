@@ -382,3 +382,10 @@ Forks and modified versions must remove them.
   <a href="https://getartcraft.com/"><img alt="ArtCraft" src="docs/brand/artcraft-mark.svg" width="28"></a><br>
   <sub>Made by the <a href="https://getartcraft.com/">ArtCraft</a> team and community.</sub>
 </p>
+
+## Loomwell workflow add-on
+
+This fork includes original Loomwell brand palettes, editable website and social
+templates, and a portable export launcher in [`loomwell/`](loomwell/README.md).
+The add-on uses the existing VectorCraft engine; it does not rebrand the upstream
+application or imply endorsement by its contributors.

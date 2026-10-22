@@ -1,0 +1,11 @@
+{
+  "tool": "vectorcraft",
+  "title": "Loomwell vector design workflow",
+  "templates": [
+    {"id": "website", "title": "Website hero", "width": 1600, "height": 900, "formats": ["svg", "png", "pdf", "vectorcraft"]},
+    {"id": "social", "title": "Landscape social / Open Graph card", "width": 1200, "height": 630, "formats": ["svg", "png", "pdf", "vectorcraft"]},
+    {"id": "square", "title": "Square social card", "width": 1080, "height": 1080, "formats": ["svg", "png", "pdf", "vectorcraft"]}
+  ],
+  "content": "content.json",
+  "brand": "brand.json"
+}

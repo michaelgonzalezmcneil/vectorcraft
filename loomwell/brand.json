@@ -1,0 +1,11 @@
+{
+  "name": "Loomwell",
+  "colors": {
+    "forest": "#182822",
+    "paper": "#f5f2e9",
+    "sage": "#d5e5b3",
+    "terracotta": "#b86e4d"
+  },
+  "fonts": {"display": "Source Serif 4", "body": "Source Sans 3"},
+  "status": "Early pilot"
+}

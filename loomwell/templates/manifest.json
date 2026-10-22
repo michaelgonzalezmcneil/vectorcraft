@@ -1,0 +1,86 @@
+{
+  "tool": "vectorcraft",
+  "renderer": "vectorcraft-cli 0.14.0",
+  "templates": [
+    {
+      "id": "website",
+      "title": "Website hero",
+      "width": 1600,
+      "height": 900,
+      "formats": [
+        "svg",
+        "png",
+        "pdf",
+        "vectorcraft"
+      ]
+    },
+    {
+      "id": "social",
+      "title": "Landscape social / Open Graph card",
+      "width": 1200,
+      "height": 630,
+      "formats": [
+        "svg",
+        "png",
+        "pdf",
+        "vectorcraft"
+      ]
+    },
+    {
+      "id": "square",
+      "title": "Square social card",
+      "width": 1080,
+      "height": 1080,
+      "formats": [
+        "svg",
+        "png",
+        "pdf",
+        "vectorcraft"
+      ]
+    }
+  ],
+  "brand": {
+    "name": "Loomwell",
+    "colors": {
+      "forest": "#182822",
+      "paper": "#f5f2e9",
+      "sage": "#d5e5b3",
+      "terracotta": "#b86e4d"
+    },
+    "fonts": {
+      "display": "Source Serif 4",
+      "body": "Source Sans 3"
+    },
+    "status": "Early pilot"
+  },
+  "content": {
+    "headline": "Useful work.\nValuable experience.",
+    "subheadline": "Reviewed ecommerce agent examples\nfor training and evaluation.",
+    "eyebrow": "ECOMMERCE AGENT EXPERIENCE",
+    "call_to_action": "Explore the pilot",
+    "status": "EARLY PILOT",
+    "footer": "RETURNS / EXCHANGES / REFUNDS",
+    "site": "loomwell"
+  },
+  "contains_customer_data": false,
+  "status": "Original reusable Loomwell design templates",
+  "files": {
+    "loomwell.gpl": "bb67c95775b6526f77a0bd34e437970a49985f4e415fa6e122b11766c560accf",
+    "loomwell.vcswatches": "464192766afb48918885b2e13d21342c83197de49999725664faec87f2f84e40",
+    "social.pdf": "173f3e9f11ffb69a6c6b59d5e46d6e0372de6b867197a8cdbef0ef44e11abe45",
+    "social.png": "87faec6f14ef4a2943e04733e20f7dc9765c31025a56d0a4029bbe3d72ce850c",
+    "social.source.svg": "a2c1a47a282b52c11612999bc8469ef2e62afdd09084e38f4d00cc9d1baad33a",
+    "social.svg": "ae61f633a9dd7c1c2364572d8cd068556ce27deb139eda4adde6ff34068b089d",
+    "social.vectorcraft": "1e48d7576d2a9fefa4ead5a33b769eeac4a722a678b99ae8748f2c731115f1b5",
+    "square.pdf": "779c9c0f786e80632540a17737802da9cb2fba167f2caa0eb51b3c1adf1c97fb",
+    "square.png": "d3ba22684318bae29ddf4b117fad4d6a9ce42e4843a89375a5cb41bb6135d362",
+    "square.source.svg": "d103f7a8f97dc1f09784c0c19218255fd6e5909876648f4bab21adc1bb401f04",
+    "square.svg": "129067500f77c245d3bf0588bba02f0f56d2b04bf354465e5af4563b09f747b0",
+    "square.vectorcraft": "6432f9367a6c1025aa205f7cde8cfa61d343d11dd3147f9e1986433b879d4000",
+    "website.pdf": "5763190d8806140fd884da16a2f97dc9e388331150587184312602c17600d210",
+    "website.png": "845909ac3d8cf6aa95ad9e62b6118cffc0131b36ec3a577ecd1fc5e8744fd012",
+    "website.source.svg": "3771816fe252204b161bbd227336b2aaa3bb624bf66c40d67e3b8b409b74895a",
+    "website.svg": "a3b564ec308f1f941c122b465d356d8a09782248ba25ec3eb310b16b36693a2a",
+    "website.vectorcraft": "b4ad45602e3faa22a7f9d39b6a169f1c9d552c78b51fcb15385a823ee92e2251"
+  }
+}

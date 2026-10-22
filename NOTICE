@@ -123,3 +123,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Loomwell workflow add-on
+
+Original Loomwell template geometry, palette, copy and export launcher in loomwell/
+are licensed MIT OR Apache-2.0. Source Serif 4 and Source Sans 3 retain the SIL Open
+Font License 1.1 described above; this add-on adds no font files or ArtCraft marks.
